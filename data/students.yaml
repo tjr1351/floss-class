@@ -59,6 +59,12 @@
   irc:      Crystick
   forges:
     - http://github.com/eric-kansas
+- name:     Taylor Rose
+  rit_dce:  tjr1351
+  blog:     http://trosehfoss.blogspot.com
+  irc:      trose
+  forges:
+    - http://github.com/tjr1351
 - name:     Philip Moccio
   rit_dce:  pam5822
   blog:     http://pmoccioportfolio.blogspot.com/
